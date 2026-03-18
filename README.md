@@ -1,6 +1,6 @@
-# Falcon Scaling / PolarityIQ — 72-Hour Evaluation Submission
+# Falcon Scaling / PolarityIQ 
 
-**Submitted by:** Falcon AI Engineering Team
+
 **Date:** March 18, 2025
 **Submission Directory:** `/falcon_submission/`
 
@@ -107,4 +107,4 @@ streamlit run app.py
 
 ---
 
-*Falcon Scaling / PolarityIQ 72-Hour Evaluation — March 2025*
+
