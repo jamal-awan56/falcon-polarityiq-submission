@@ -164,4 +164,6 @@ For a production-grade dataset targeting 1,000+ records:
 
 ---
 
-*Dataset built for Falcon Scaling / PolarityIQ 
+**GitHub Repository:** https://github.com/jamal-awan56/falcon-polarityiq-submission
+
+*Dataset built for Falcon Scaling / PolarityIQ evaluation — March 2025*
