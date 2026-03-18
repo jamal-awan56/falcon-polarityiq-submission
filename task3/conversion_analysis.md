@@ -305,4 +305,4 @@ If only one change is made, make it Rec #1. Removing the credit card requirement
 
 ---
 
-*Analysis prepared for Falcon Scaling / PolarityIQ evaluation — March 2025*
+*Analysis prepared for Falcon Scaling / PolarityIQ 
