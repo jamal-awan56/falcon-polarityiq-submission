@@ -160,4 +160,4 @@ python pipeline.py     # Full RAG test with 2 demo queries
 
 ---
 
-*Built for Falcon Scaling / PolarityIQ evaluation — March 2025*
+*Built for Falcon Scaling / PolarityIQ 
