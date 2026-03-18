@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Vector DB / index (large binary - regenerate with ingest.py)
+task2/fo_index.pkl
+task2/chroma_db/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+streamlit.log
